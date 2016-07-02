@@ -23,7 +23,7 @@
     "@angular/router-deprecated": "2.0.0-rc.1",
     "nativescript-angular": "0.1.1",
     "nativescript-bluetooth": "git://github.com/ngBraves/nativescript-bluetooth.git",
-    "tns-core-modules": "^2.0.0"
+    "tns-core-modules": "2.0.0"
   },
   "devDependencies": {
     "babel-traverse": "6.9.0",
